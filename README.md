@@ -7,11 +7,15 @@
 ---
 
 ### 🎛️ Über mich
-Hi! Ich bin **DocBig**. Ich entwickle leidenschaftlich gerne DIY-Hardware-Lösungen, Firmware und Integrationen, um die Lücke zwischen smarter Elektronik und **Home Assistant** zu schließen. Mein Fokus liegt auf ESP32/ESP8266-Projekten, MQTT-Kommunikation und smarter Energie- & Gerätesteuerung.
 
-* 🏠 **Smart Home Enthusiast:** Getrieben von der Idee, "dumme" Geräte intelligent zu machen.
-* ⚡ **Tech-Stack:** C++, ESPHome, Arduino, MicroPython, MQTT, YAML.
+Hi! Ich bin **DocBig (Dr.Big)**. Ich entwickle leidenschaftlich gerne DIY-Hardware-Lösungen, Firmware und Integrationen, um die Lücke zwischen smarter Elektronik und dem Smart Home zu schließen. Mein Fokus liegt auf ESP32/ESP8266-Projekten, MQTT-Kommunikation und smarter Energie- & Gerätesteuerung.
+
+* 🏠 Smart Home (Home Assistant) Enthusiast: Getrieben von der Idee, "dumme" Geräte intelligent zu machen.
+* ⚡ Tech-Stack: C++, PlatformIO, ESPHome, Arduino, LVGL, MQTT, YAML.
 * 🌱 Aktuell optimiere ich das kamerabasierte Auslesen von Hardware-Displays und die Tastensimulation an Wärmepumpen über eine optogekoppelte, kapazitive Adapterplatine.
+
+
+
 
 ---
 
