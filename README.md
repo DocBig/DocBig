@@ -1,4 +1,4 @@
-# 🛠️ Welcome to DocBig's Lab
+# 🛠️ Welcome to DocBig
 
 <p align="left">
   <a href="https://github.com/DocBig?tab=followers"><img src="https://img.shields.io/github/followers/DocBig?label=Followers&style=flat-square&color=0382f4" /></a>
