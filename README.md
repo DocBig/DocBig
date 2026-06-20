@@ -11,7 +11,7 @@ Hi! Ich bin **DocBig**. Ich entwickle leidenschaftlich gerne DIY-Hardware-Lösun
 
 * 🏠 **Smart Home Enthusiast:** Getrieben von der Idee, "dumme" Geräte intelligent zu machen.
 * ⚡ **Tech-Stack:** C++, ESPHome, Arduino, MicroPython, MQTT, YAML.
-* 🌱 Aktuell optimiere ich das Auslesen von Hardware-Displays per Kamera und die MQTT-Solarkommunikation.
+* 🌱 Aktuell optimiere ich das kamerabasierte Auslesen von Hardware-Displays und die Tastensimulation an Wärmepumpen über eine optogekoppelte, kapazitive Adapterplatine.
 
 ---
 
