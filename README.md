@@ -48,9 +48,6 @@ Hi! Ich bin **DocBig (Dr.Big)**. Ich entwickle leidenschaftlich gerne DIY-Hardwa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocBig&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DocBig&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
 
 ---
 
